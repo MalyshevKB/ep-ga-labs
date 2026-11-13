@@ -1,0 +1,14 @@
+A,B,mean_A,mean_B,p_value
+P_lam0.5,P_lam2,16.9,19.05,2.07e-06
+P_lam2,P_lam10,19.05,19.7,0.0603
+P_lam2,R_repair,19.05,10.65,3.68e-08
+P_lam2,P_lam2_eps,19.05,13.1,2.86e-08
+R_repair,R_onepoint,10.65,10.8,0.373
+R_repair,R_gpx,10.65,9.75,6.62e-05
+R_repair,R_mincon,10.65,11.5,0.000393
+R_repair,R_elim,10.65,9.55,5.82e-06
+R_gpx,R_gpx_elim,9.75,9.0,5.68e-06
+R_elim,R_gpx_elim,9.55,9.0,0.000129
+R_gpx_elim,P_eps_gpx_elim,9.0,9.25,0.0195
+R_repair,RandomFeasible,10.65,12.0,1.73e-08
+R_gpx_elim,RandomFeasible,9.0,12.0,4.68e-10

@@ -1,0 +1,20 @@
+{
+  "n": 80,
+  "m": 925,
+  "density": 0.2927215189873418,
+  "max_deg": 32,
+  "min_deg": 17,
+  "mean_deg": 23.125,
+  "dsatur_colors": 10,
+  "clique_lb": 5,
+  "clique": [
+    0,
+    24,
+    43,
+    64,
+    20
+  ],
+  "chi_found": 8,
+  "chi_proven": true,
+  "bb_nodes": 105254
+}

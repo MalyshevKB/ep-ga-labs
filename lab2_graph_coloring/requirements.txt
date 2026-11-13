@@ -1,0 +1,3 @@
+numpy>=1.24
+matplotlib>=3.9   # boxplot(tick_labels=...) появился в 3.9
+scipy>=1.10       # только для теста Манна—Уитни в analyze.py
